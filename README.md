@@ -64,9 +64,9 @@ To be announced soon!
 | **March 7**      | Tuesday     | **First day of WDI!** |
 | **May 27**       | Friday      | **Last day of class & graduation!** | -->
 
-
+<!--
 Note: in the weeks following your graduation, there will be a number of various
-job search preparation tutorials and hiring events, with dates TBD.
+job search preparation tutorials and hiring events, with dates TBD.-->
 
 <!-- ## Course Outline
 
@@ -89,10 +89,6 @@ Keep in mind, this is tentative. **We may (and shall) change topics and dates as
 | **Week 11** | 5/16 - 5/20   | CS Topics & More!             |
 | **Week 12** | 5/23 - 5/27   | *Project Sprint*              |
  -->
-
-## Classroom Code of Conduct <a id="coc"></a>
-
-(TODO) link and discuss
 
 
 ## Repo Structure and Use
