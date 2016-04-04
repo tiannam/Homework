@@ -27,15 +27,15 @@ instructional team and classmates, please follow the
 
 ### Instructional Team
 
-| Role                      | Name               | Slack               | Email                    | GitHub |
-|---------------------------|--------------------|:-------------------:|:------------------------:|:------:|
-| **Course Producer**       | Jude Molke         | @judemolke          | jude@ga.co               | [judemolke](judemolke) |
-| **Instructor**            | Phil Lamplugh      | @philco             | philco@ga.co             | [phlco](phlco) |
-| **Instructor**            | Kate Wood          | @katewood           | kate.wood@ga.co          | [katewood](katewood) |
-| **Instructor**            | Matt Gutierrez     | @mattg              | matthew.gutierrez@ga.co  | [fatchicken007](fatchicken007)|
-| **Instructional Support** | Meredith Bryan     | @meredith           | meredith.bryan@ga.co     | [mer8](mer8) |
+| Role                      | Name               | Slack               | Email                    | 
+|---------------------------|--------------------|:-------------------:|:------------------------:|
+| **Course Producer**       | Sarah Carr         | @sarahcarr          | sarahc@ga.co             | 
+| **Instructor**            | Graeme Craven      | @graeme             | graeme.craven@ga.co      |
+| **Instructor Associate**  | Blaise Thomas      | @blaisethomas           | blaise.thomas@ga.co      |
 
 
+
+<!-- 
 ### TAs
 To be announced soon!
 ####(TODO) Please update
@@ -46,10 +46,10 @@ To be announced soon!
 | Tue. & Thu.<br>nights   | Peter Krouse    | @7sun         | peter.krouse@ga.co    | [7sun](7sun) |
 | Wed. night              | Larry Tran      | @lawrencetran | larry.tran@ga.co      | [lawrencetran1](lawrencetran1) |
 | Wed. night              | Alex Dinari     | @alexdinar    | alex.dinari@ga.co     | [alexdinari](alexdinari) |
+ -->
 
 
-
-### Class
+<!-- ### Class
 ####(TODO) Please update
 
 | Name                 | Email                          | [Slack](https://ga-students.slack.com) | GitHub             |
@@ -62,13 +62,13 @@ To be announced soon!
 |:----------------:|:-----------:|:------|
 | **March 4**      | Friday      | **Orientation & Installfest** |
 | **March 7**      | Tuesday     | **First day of WDI!** |
-| **May 27**       | Friday      | **Last day of class & graduation!** |
+| **May 27**       | Friday      | **Last day of class & graduation!** | -->
 
 
 Note: in the weeks following your graduation, there will be a number of various
 job search preparation tutorials and hiring events, with dates TBD.
 
-## Course Outline
+<!-- ## Course Outline
 
 Below is a general outline of the course content. See the README for each week for a more thorough syllabus.
 
@@ -88,7 +88,7 @@ Keep in mind, this is tentative. **We may (and shall) change topics and dates as
 | **Week 10** | 5/9 - 5/13    | MV* with Angular              |
 | **Week 11** | 5/16 - 5/20   | CS Topics & More!             |
 | **Week 12** | 5/23 - 5/27   | *Project Sprint*              |
-
+ -->
 
 ## Classroom Code of Conduct <a id="coc"></a>
 
